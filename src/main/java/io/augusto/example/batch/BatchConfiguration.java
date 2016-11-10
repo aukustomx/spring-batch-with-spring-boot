@@ -1,4 +1,4 @@
-package hello;
+package io.augusto.example.batch;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

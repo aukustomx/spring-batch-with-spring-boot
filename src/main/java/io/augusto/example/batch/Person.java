@@ -1,4 +1,4 @@
-package hello;
+package io.augusto.example.batch;
 
 public class Person {
     private String lastName;
